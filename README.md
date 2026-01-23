@@ -1,4 +1,4 @@
-# CodeAlpha_Hotel-Reservation-System
+# Hotel-Reservation-System
 This project is a Java-based Hotel Reservation System developed as part of the CodeAlpha internship program. It enables streamlined hotel room booking and management through a simple, interactive console-based interface.
 
 🏨 Features
