@@ -241,5 +241,6 @@ public class HotelSystem {
         }
     }
 }
+OUTPUT:
 <img width="647" height="408" alt="image" src="https://github.com/user-attachments/assets/cc70d04a-8333-441e-ba0b-6bf402c5c89e" />
 
